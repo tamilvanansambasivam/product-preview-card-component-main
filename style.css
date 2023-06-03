@@ -21,6 +21,12 @@ body{
     color: var(--Dark-grayish-blue);
 }
 
+body {
+min-height: 100vh;
+display: grid;
+place-items: center;
+}
+
 h1{
     color:var(--Very-dark-blue);
     font-family: 'Fraunces', serif;
@@ -48,6 +54,11 @@ h1{
     overflow: hidden;
     margin-top: 200px;
 
+}
+
+.container {
+margin: auto;
+margin-top: 200px;
 }
 
 

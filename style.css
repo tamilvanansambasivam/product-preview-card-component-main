@@ -48,18 +48,14 @@ h1{
     font-size: small;
     width: 750px;
     align-items: center;
-    margin: auto ;
+   
     background-color: var(--White);
     border-radius: 20px;
     overflow: hidden;
-    margin-top: 200px;
+   
 
 }
 
-.container {
-margin: auto;
-margin-top: 200px;
-}
 
 
 .container .right{
